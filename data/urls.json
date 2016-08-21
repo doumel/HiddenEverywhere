@@ -30,9 +30,19 @@
         "onion": "tpq5sxk5cgdf35uq.onion"
     },
     {
+        "match": "*.beneathvt.com",
+        "title": "Beneath VT",
+        "onion": "74ypjqjwf6oejmax.onion"
+    },
+    {
         "match": "*.bitmessage.ch",
         "title": "BitmessageMailGateway",
         "onion": "bitmailendavkbec.onion"
+    },
+    {
+        "match": "*.bittit.info",
+        "title": "bittit",
+        "onion": "ejz7kqoryhqwosbk.onion"
     },
     {
         "match": "*.blockchain.info",
@@ -40,9 +50,24 @@
         "onion": "blockchainbdgpzk.onion"
     },
     {
+        "match": "bluishcoder.co.nz",
+        "title": "Bluish Coder",
+        "onion": "mh7mkfvezts5j6yu.onion"
+    },
+    {
+        "match": "brmlab.cz",
+        "title": "Hackerspace Prague",
+        "onion": "pmwdzvbyvnmwobk5.onion"
+    },
+    {
         "match": "*.btdigg.org",
         "title": "BTDigg",
         "onion": "btdigg63cdjmmmqj.onion"
+    },
+    {
+        "match": "cb-btc.com",
+        "title": "CB-BTC",
+        "onion": "cidr6kt4la4slizf.onion"
     },
     {
         "match": "chaoswebs.net/anonblog/",
@@ -65,6 +90,31 @@
         "onion": "cockmailwwfvrtqj.onion"
     },
     {
+        "match": "*.cryptdesign.com",
+        "title": "Crypt Design",
+        "onion": "cryptdsnti5lzfwl.onion"
+    },
+    {
+        "match": "*.cryptoparty.is",
+        "title": "CrypoParty",
+        "onion": "crypty22ijtotell.onion"
+    },
+    {
+        "match": "jabber.cryptoparty.is",
+        "title": "CryptoParty Jabber",
+        "onion": "cryjabkbdljzohnp.onion"
+    },
+    {
+        "match": "anonguide.cyberguerrilla.org",
+        "title": "Anonguide",
+        "onion": "yuxv6qujajqvmypv.onion"
+    },
+    {
+        "match": "*.cyph.com",
+        "title": "Cyph Encrypted Messenger",
+        "onion": "cyphdbyhiddenbhs.onion"
+    },
+    {
         "match": "*.deepdotweb.com",
         "title": "DeepDotWeb",
         "onion": "deepdot35wvmeyd5.onion"
@@ -78,6 +128,11 @@
         "match": "*.duckduckgo.com",
         "title": "DuckDuckGo",
         "onion": "3g2upl4pq6kufc4m.onion"
+    },
+    {
+        "match": "*.ef.gy",
+        "title": "ef.gy",
+        "onion": "vturtipc7vmz6xjy.onion"
     },
     {
         "match": "*.facebook.com",
