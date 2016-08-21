@@ -10,14 +10,19 @@
         "onion": "msydqstlz2kzerdg.onion"
     },
     {
-        "match": "chaoswebs.net/anonblog/",
-        "title": "AnonBlog",
-        "onion": "oqgxnwyrufcvgu2o.onion"
+        "match": "*.anarplex.net",
+        "title": "Anarplex",
+        "onion": "y5fmhyqdr6r7ddws.onion"
     },
     {
-        "match": "atlas.torproject.org",
-        "title": "Atlas",
-        "onion": "52g5y5karruvc7bz.onion"
+        "match": "*.anoncoin.net",
+        "title": "Anoncoin",
+        "onion": "futz4b7tmqzoxnc6.onion"
+    },
+    {
+        "match": "*.autistici.org",
+        "title": "Autistici/Inventati",
+        "onion": "wi7qkxyrdpu5cmvr.onion"
     },
     {
         "match": "*.bestblog.de",
@@ -25,14 +30,14 @@
         "onion": "tpq5sxk5cgdf35uq.onion"
     },
     {
+        "match": "*.bitmessage.ch",
+        "title": "BitmessageMailGateway",
+        "onion": "bitmailendavkbec.onion"
+    },
+    {
         "match": "*.blockchain.info",
         "title": "Blockchain.info",
         "onion": "blockchainbdgpzk.onion"
-    },
-    {
-        "match": "bridges.torproject.org",
-        "title": "TOR Bridges",
-        "onion": "z5tfsnikzulwicxs.onion"
     },
     {
         "match": "*.btdigg.org",
@@ -40,39 +45,24 @@
         "onion": "btdigg63cdjmmmqj.onion"
     },
     {
+        "match": "chaoswebs.net/anonblog/",
+        "title": "AnonBlog",
+        "onion": "oqgxnwyrufcvgu2o.onion"
+    },
+    {
         "match": "*.chloe.re",
         "title": "Chloe",
         "onion": "chloenlpvlemmmmd.onion"
     },
     {
-        "match": "cloud.torproject.org",
-        "title": "TOR Cloud",
-        "onion": "icxe4yp32mq6gm6n.onion"
-    },
-    {
-        "match": "cock.li",
+        "match": "*.cock.li",
         "title": "CockLi",
-        "onion": "wwwcocklicdexedh.onion"
+        "onion": "cockmailwwfvrtqj.onion"
     },
     {
         "match": "mail.cock.li",
         "title": "CockliWebMail",
         "onion": "cockmailwwfvrtqj.onion"
-    },
-    {
-        "match": "www.cock.li",
-        "title": "CockLiWWW",
-        "onion": "wwwcocklicdexedh.onion"
-    },
-    {
-        "match": "collector.torproject.org",
-        "title": "TOR Collector",
-        "onion": "qigcb4g4xxbh5ho6.onion"
-    },
-    {
-        "match": "consensus-health.torproject.org",
-        "title": "TOR ConensusHealth",
-        "onion": "tgnv2pssfumdedyw.onion"
     },
     {
         "match": "*.deepdotweb.com",
@@ -90,19 +80,9 @@
         "onion": "3g2upl4pq6kufc4m.onion"
     },
     {
-        "match": "extra.torproject.org",
-        "title": "ExtraTor",
-        "onion": "rqef5a5mebgq46y5.onion"
-    },
-    {
         "match": "*.facebook.com",
         "title": "Facebook",
         "onion": "facebookcorewwwi.onion"
-    },
-    {
-        "match": "gettor.torproject.org",
-        "title": "GetTor",
-        "onion": "tngjm3owsslo3wgo.onion"
     },
     {
         "match": "*.go-beyond.org",
@@ -125,6 +105,16 @@
         "onion": "vaultu7dxw5bbg37.onion"
     },
     {
+        "match": "*.mail2tor.com",
+        "title": "Mail2Tor",
+        "onion": "mail2tor2zyjdctd.onion"
+    },
+    {
+        "match": "*.netzpolitik.org",
+        "title": "Netzpolitik",
+        "onion": "p6dpm4ozk6d2pxqa.onion"
+    },
+    {
         "match": "*.obscuredfiles.com",
         "title": "ObscuredFiles",
         "onion": "obscuredtzevzthp.onion"
@@ -133,11 +123,6 @@
         "match": "*.onion-router.net",
         "title": "OnionRouter",
         "onion": "hzmun3rnnxjhkyhg.onion"
-    },
-    {
-        "match": "ooni.torproject.org",
-        "title": "Ooni",
-        "onion": "fqnqc7zix2wblwex.onion"
     },
     {
         "match": "*.parckwart.de",
@@ -175,34 +160,14 @@
         "onion": "zsolxunfmbfuq7wf.onion"
     },
     {
-        "match": "*.netzpolitik.org",
-        "title": "Netzpolitik",
-        "onion": "p6dpm4ozk6d2pxqa.onion"
-    },
-    {
-        "match": "*.mail2tor.com",
-        "title": "Mail2Tor",
-        "onion": "mail2tor2zyjdctd.onion"
-    },
-    {
-        "match": "*.vfemail.net",
-        "title": "VFEmail",
-        "onion": "344c6kbnjnljjzlz.onion"
-    },
-    {
-        "match": "*.bitmessage.ch",
-        "title": "BitmessageMailGateway",
-        "onion": "bitmailendavkbec.onion"
-    },
-    {
-        "match": "*.autistici.org",
-        "title": "Autistici/Inventati",
-        "onion": "wi7qkxyrdpu5cmvr.onion"
-    },
-    {
         "match": "share.riseup.net",
         "title": "RiseupShare",
         "onion": "6zc6sejeho3fwrd4.onion"
+    },
+    {
+        "match": "we.riseup.net",
+        "title": "WeRiseup",
+        "onion": "7lvd7fa5yfbdqaii.onion"
     },
     {
         "match": "*.sarahjamielewis.com",
@@ -235,11 +200,6 @@
         "onion": "swehackmzys2gpmb.onion"
     },
     {
-        "match": "tb-manual.torproject.org",
-        "title": "TbManual",
-        "onion": "dgvdmophvhunawds.onion"
-    },
-    {
         "match": "*.thepiratebay.org",
         "title": "ThePirateBay",
         "onion": "uj3wazyk5u4hnvtk.onion"
@@ -250,9 +210,34 @@
         "onion": "uj3wazyk5u4hnvtk.onion"
     },
     {
+        "match": "atlas.torproject.org",
+        "title": "Atlas",
+        "onion": "52g5y5karruvc7bz.onion"
+    },
+    {
+        "match": "bridges.torproject.org",
+        "title": "TOR Bridges",
+        "onion": "z5tfsnikzulwicxs.onion"
+    },
+    {
+        "match": "cloud.torproject.org",
+        "title": "TOR Cloud",
+        "onion": "icxe4yp32mq6gm6n.onion"
+    },
+    {
+        "match": "collector.torproject.org",
+        "title": "TOR Collector",
+        "onion": "qigcb4g4xxbh5ho6.onion"
+    },
+    {
         "match": "compass.torproject.org",
         "title": "Tor Compass",
         "onion": "lwygejoa6fm26eef.onion"
+    },
+    {
+        "match": "consensus-health.torproject.org",
+        "title": "TOR ConensusHealth",
+        "onion": "tgnv2pssfumdedyw.onion"
     },
     {
         "match": "deb.torproject.org",
@@ -265,9 +250,19 @@
         "onion": "rqef5a5mebgq46y5.onion"
     },
     {
+        "match": "extra.torproject.org",
+        "title": "ExtraTor",
+        "onion": "rqef5a5mebgq46y5.onion"
+    },
+    {
         "match": "help.torproject.org",
         "title": "TorHelp",
         "onion": "54nujbl4qohb5qdp.onion"
+    },
+    {
+        "match": "gettor.torproject.org",
+        "title": "GetTor",
+        "onion": "tngjm3owsslo3wgo.onion"
     },
     {
         "match": "gitweb.torproject.org",
@@ -290,6 +285,11 @@
         "onion": "yz7lpwfhhzcdyc5y.onion"
     },
     {
+        "match": "ooni.torproject.org",
+        "title": "Ooni",
+        "onion": "fqnqc7zix2wblwex.onion"
+    },
+    {
         "match": "www.torproject.org",
         "title": "TorProject",
         "onion": "expyuzz4wqqyqhjn.onion"
@@ -310,6 +310,11 @@
         "onion": "vt5hknv6sblkgf22.onion"
     },
     {
+        "match": "tb-manual.torproject.org",
+        "title": "TbManual",
+        "onion": "dgvdmophvhunawds.onion"
+    },
+    {
         "match": "trac.torproject.org",
         "title": "Tor Bug Tracker & Wiki",
         "onion": "ea5faa5po25cf7fb.onion"
@@ -320,9 +325,9 @@
         "onion": "jxm5d6emw5rknovg.onion"
     },
     {
-        "match": "we.riseup.net",
-        "title": "WeRiseup",
-        "onion": "7lvd7fa5yfbdqaii.onion"
+        "match": "*.vfemail.net",
+        "title": "VFEmail",
+        "onion": "344c6kbnjnljjzlz.onion"
     },
     {
         "match": "*.whonix.org",
