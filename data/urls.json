@@ -115,6 +115,11 @@
         "onion": "cyphdbyhiddenbhs.onion"
     },
     {
+        "match": "ftp.debian.org",
+        "title": "Debian FTP",
+        "onion": "vwakviie2ienjx6t.onion"
+    },
+    {
         "match": "*.deepdotweb.com",
         "title": "DeepDotWeb",
         "onion": "deepdot35wvmeyd5.onion"
@@ -140,6 +145,16 @@
         "onion": "facebookcorewwwi.onion"
     },
     {
+        "match": "*.flisbusta.is",
+        "title": "Flibusta",
+        "onion": "flibustahezeous3.onion"
+    },
+    {
+        "match": "*.freedom.press",
+        "title": "Freedom of the Press Foundation",
+        "onion": "freepress3xxs3hk.onion"
+    },
+    {
         "match": "*.go-beyond.org",
         "title": "GoBeyond",
         "onion": "potatooezyf2aql6.onion"
@@ -150,12 +165,47 @@
         "onion": "grrmailb3fxpjbwm.onion"
     },
     {
+        "match": "*.gurochan.com",
+        "title": "GUROchan",
+        "onion": "gurochanocizhuhg.onion"
+    },
+    {
+        "match": "*.hackcanada.com",
+        "title": "Hack Canada",
+        "onion": "hackcanl2o4lvmnv.onion"
+    },
+    {
+        "match": "*.incal.net",
+        "title": "Incal",
+        "onion": "ykvclvmhmguhesvi.onion"
+    },
+    {
+        "match": "*.intelexit.net",
+        "title": "Intelexit contact",
+        "onion": "intelexi7yo7mj7j.onion"
+    },
+    {
         "match": "*.keybase.io",
         "title": "Keybase",
         "onion": "fncuwbiisyh6ak3i.onion"
     },
     {
+        "match": "*.kognitionskyrkan.nu",
+        "title": "Kognitionskyrkan",
+        "onion": "wd43uqrbjwe6hpre.onion"
+    },
+    {
+        "match": "*.lelantos.org",
+        "title": "Lelantos Email",
+        "onion": "lelantoss7bcnwbv.onion"
+    },
+    {
         "match": "*.litevault.net",
+        "title": "lolicore and speedcore archive",
+        "onion": "lolicore75rq3tm5.onion"
+    },
+    {
+        "match": "*.lolicore.ch",
         "title": "LiteVault",
         "onion": "vaultu7dxw5bbg37.onion"
     },
@@ -165,9 +215,29 @@
         "onion": "mail2tor2zyjdctd.onion"
     },
     {
+        "match": "*.mailpile.is",
+        "title": "Mailpile",
+        "onion": "clgs64523yi2bkhz.onion"
+    },
+    {
+        "match": "keys.mayfirst.org",
+        "title": "SKS key server",
+        "onion": "qdigse2yzvuglcix.onion"
+    },
+    {
+        "match": "moral.nu",
+        "title": "moral.nu",
+        "onion": "fcnwebggxt2d3h64.onion"
+    },
+    {
         "match": "*.netzpolitik.org",
         "title": "Netzpolitik",
         "onion": "p6dpm4ozk6d2pxqa.onion"
+    },
+    {
+        "match": "*.newsfilesearch.com",
+        "title": "Usenet Search Engine",
+        "onion": "wbyi72yt6gitdcqd.onion"
     },
     {
         "match": "*.obscuredfiles.com",
@@ -178,6 +248,11 @@
         "match": "*.onion-router.net",
         "title": "OnionRouter",
         "onion": "hzmun3rnnxjhkyhg.onion"
+    },
+    {
+        "match": "*.onionmail.info",
+        "title": "OnionMail",
+        "onion": "louhlbgyupgktsw7.onion"
     },
     {
         "match": "*.parckwart.de",
@@ -263,6 +338,11 @@
         "match": "*.thepiratebay.se",
         "title": "ThePirateBay",
         "onion": "uj3wazyk5u4hnvtk.onion"
+    },
+    {
+        "match": "mike.tig.as",
+        "title": "Mike Tigas",
+        "onion": "tigas3l7uusztiqu.onion"
     },
     {
         "match": "atlas.torproject.org",
