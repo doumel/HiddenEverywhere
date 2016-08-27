@@ -5,6 +5,11 @@
         "onion": "oxwugzccvk3dk6tj.onion"
     },
     {
+        "match": "scott.arciszewski.net",
+        "title": "Scott Arciszewski",
+        "onion": "kobrabd77ppgjd2r.onion"
+    },
+    {
         "match": "*.ahmia.fi",
         "title": "Ahmia",
         "onion": "msydqstlz2kzerdg.onion"
@@ -255,6 +260,16 @@
         "onion": "louhlbgyupgktsw7.onion"
     },
     {
+        "match": "parazite.pp.fi",
+        "title": "Parazite",
+        "onion": "kpynyvym6xqi7wz2.onion"
+    },
+    {
+        "match": "parazite.nn.fi",
+        "title": "Parazite",
+        "onion": "kpynyvym6xqi7wz2.onion"
+    },
+    {
         "match": "*.parckwart.de",
         "title": "Parckwart",
         "onion": "parckwartvo7fskp.onion"
@@ -268,6 +283,21 @@
         "match": "*.privacyinternational.org",
         "title": "PrivacyInternational",
         "onion": "privacyintyqcroe.onion"
+    },
+    {
+        "match": "wiki.project-pm.org/wiki/Main_Page",
+        "title": "Project PM",
+        "onion": "projpmcxufvim7be.onion"
+    },
+    {
+        "match": "securedrop.propublica.org",
+        "title": "ProPublica SecureDrop",
+        "onion": "pubdrop4dw6rk3aq.onion"
+    },
+    {
+        "match": "*.qubes-os.org",
+        "title": "Qubes OS Project",
+        "onion": "qubesosmamapaxpa.onion"
     },
     {
         "match": "black.riseup.net",
@@ -300,9 +330,24 @@
         "onion": "7lvd7fa5yfbdqaii.onion"
     },
     {
+        "match": "tor.rueckgr.at",
+        "title": "Rueckgr Tor Status",
+        "onion": "jlve2y45zacpbz6s.onion"
+    },
+    {
         "match": "*.sarahjamielewis.com",
         "title": "SarahJamieLewis",
         "onion": "vdfmtrtpneosarah.onion"
+    },
+    {
+        "match": "blog.samwhited.com",
+        "title": "Sam Whited Blog",
+        "onion": "mpf3i4k43xc2usxj.onion"
+    },
+    {
+        "match": "*.scan4you.net",
+        "title": "Scan4You",
+        "onion": "hybedxst6ulae4oh.onion"
     },
     {
         "match": "*.secushare.org",
@@ -323,6 +368,21 @@
         "match": "*.sci-hub.cc",
         "title": "Sci-Hub",
         "onion": "scihub22266oqcxt.onion"
+    },
+    {
+        "match": "*.shadowlife.cc",
+        "title": "Shadow Life",
+        "onion": "shadow7jnzxjkvpz.onion"
+    },
+    {
+        "match": "*.sigaint.org",
+        "title": "Sigaint",
+        "onion": "sigaintevyh2rzvw.onion"
+    },
+    {
+        "match": "*.surveillancelaw.org",
+        "title": "Surveillance Law",
+        "onion": "7vrl523532rjjznj.onion"
     },
     {
         "match": "*.swehack.org",
